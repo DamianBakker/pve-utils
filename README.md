@@ -24,7 +24,7 @@ Create a file named `config.json`:
 
 ```json
 {
-    "api_url": "https://147.79.27.12:8006/api2/json",
+    "api_url": "https://192.168.1.11:8006/api2/json",
     "token_id": "",
     "token_secret": "",
     "node": "pve"
