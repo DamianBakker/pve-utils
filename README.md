@@ -1,5 +1,5 @@
 [![Contributors](https://img.shields.io/github/contributors/DamianBakker/pve-utils)](https://github.com/DamianBakker/pve-utils/graphs/contributors)
-# PVE Utilities – Real Proxmox CLI Tools TESTV2 UPDATES
+# PVE Utilities – Real Proxmox CLI Tools
 
 PVE Utilities (pve-utils) is an open-source collection of lightweight command-line tools that interact with a real Proxmox VE server using its official API.
 
